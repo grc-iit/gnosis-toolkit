@@ -1,4 +1,4 @@
-![Gnosis Toolkit Banner](gnosis-toolkit-banner-wide.PNG)
+![Gnosis Toolkit Banner](/gnosis-toolkit-banner-wide.PNG)
 
 # Gnosis Toolkit
 
