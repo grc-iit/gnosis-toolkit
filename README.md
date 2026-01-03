@@ -1,3 +1,5 @@
+![Gnosis Toolkit Banner](gnosis-toolkit-banner-wide.PNG)
+
 # Gnosis Toolkit
 
 A modular collection of developer tools built by and for the [Gnosis Research Center](https://grc.iit.edu) community at Illinois Institute of Technology.
